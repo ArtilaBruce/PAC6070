@@ -12,4 +12,5 @@ Good luck man!
 webwebwerb
 
 Use jumper JP1 to select default boot sequence (from eMMC or SD).
+
 ![eMMC Jumper Setting](/images/68295%20SD%20and%20eMMC%20jumper%20setting.jpg)
